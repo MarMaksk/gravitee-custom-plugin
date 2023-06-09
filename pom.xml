@@ -152,7 +152,7 @@
                         </goals>
                         <configuration>
                             <includes>
-                                <include>ru/local/custom/configuration/CustomPluginConfiguration.class</include>
+                                <include>ru.local.custom.configuration.CustomPluginConfiguration.class</include>
                             </includes>
                             <outputDirectory>${json-schema-generator-maven-plugin.outputDirectory}</outputDirectory>
                         </configuration>
